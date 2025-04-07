@@ -25,12 +25,19 @@ A lightweight and real-time attendance tracking system for small teams or organi
 - **Deployment:** Linux (Ubuntu), GitHub
 
 ---
+## Dependencies
+-Flask
 
-## 📷 Screenshots
+-Flask-SocketIO
 
-> *(Insert screenshots of the dashboard, QR scanner, and Excel export here)*
+-Selenium
 
----
+-Pandas
 
-## 📂 Project Structure
+-OpenPyXL
 
+-Eventlet
+
+-Gunicorn
+
+-Bootstrap
